@@ -1,0 +1,10 @@
+{
+  "items": {
+    "bottomBtn": {
+      "btnColor": {
+        "ui:widget": "color",
+        "ui:help": "点击选择颜色"
+      }
+    }
+  }
+}
